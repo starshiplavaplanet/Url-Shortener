@@ -15,4 +15,4 @@ This allows users to easily share and access long URLs using shorter, more conve
 
 ************************************************************************************************************************************************
 
-Created by Kiplangat Selim as part of learning Python
+Created by 'me' as part of learning Python
